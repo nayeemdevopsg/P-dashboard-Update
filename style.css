@@ -1,0 +1,17 @@
+.bg-green{
+    background-color: green;
+}
+#footer{
+    background-image: linear-gradient(#298E11, #154709);
+    height: 50px;
+    padding: 12px;
+    color: white;
+}
+.scroll{
+    overflow: scroll;
+    background-color: green;
+}
+.scroll2{
+    overflow: scroll;
+    background-color: blue;
+}
